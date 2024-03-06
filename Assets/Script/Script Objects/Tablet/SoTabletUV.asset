@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb145f3dd8b701b4ea68ac9fa842a12f, type: 3}
+  m_Name: SoTabletUV
+  m_EditorClassIdentifier: 
+  label: UV Imager
+  titleText: Enduro UV Image Viewer
+  titleTexture: {fileID: 2800000, guid: f8aa8b7daf92a894680d2e1eada147dd, type: 3}
+  sprites:
+  - {fileID: 21300000, guid: fa41d1922d5376a40a345e8b54612e36, type: 3}
+  - {fileID: 21300000, guid: 33747113d1519d64895755157f133f86, type: 3}
+  - {fileID: 21300000, guid: 9557745ee3cbb7848a51dd052733d1bb, type: 3}
+  - {fileID: 21300000, guid: 124df8c34f349774ab8991279a3956b9, type: 3}
+  - {fileID: 21300000, guid: ffa1ddd8b3a94f943b536d98b77e9faf, type: 3}
+  - {fileID: 21300000, guid: b0c781943de835745b10be1a861daf51, type: 3}
+  - {fileID: 21300000, guid: 7ca3a182fc8c81747a4f51d0b8b67959, type: 3}
+  useFilenames: 0
+  userTitles:
+  - LIVE CAMERA VIEW
+  - DNS Seq 1.1
+  - DNS Seq 1.2
+  - DNS Seq 1.3
+  - DNS Seq 1.4
+  - DNS Seq 1.5
+  - DNS Seq 1.6

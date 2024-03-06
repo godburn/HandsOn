@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2cc053fe634178942b8aadc83df18ca3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arrow: {fileID: 11400000, guid: fad43d92e5526804797bc2afc633ef31, type: 2}
+  - finger: {fileID: 11400000, guid: 475106db037e63840bf9edef456b056f, type: 2}
+  - grab: {fileID: 11400000, guid: eea55c598ae306a4c841d2a7f6f5256b, type: 2}
+  - pick: {fileID: 11400000, guid: 383c4bd27da38ca41ac99821fa02f2f4, type: 2}
+  - eye: {fileID: 11400000, guid: 640a6cf3678318f47b3b8f382ef7789b, type: 2}
+  - clock: {fileID: 11400000, guid: 685ef52982c7b874d88870ab29d98e21, type: 2}
+  - settings: {fileID: 11400000, guid: 138ef706dd88d3b4cbdb10921a2ba817, type: 2}
+  - vial: {fileID: 11400000, guid: 0a5ab959b73e04e4fa4256535c21ad22, type: 2}
+  - lidOpen: {fileID: 11400000, guid: 4c13ca56590a5014ba5694cb5b916244, type: 2}
+  - lidClose: {fileID: 11400000, guid: 3f04eb43e6b610d41a7d8a122a7a4e88, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

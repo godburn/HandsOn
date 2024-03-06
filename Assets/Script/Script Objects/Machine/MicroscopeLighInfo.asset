@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a09e020b311536e48998906e715bab8f, type: 3}
+  m_Name: MicroscopeLighInfo
+  m_EditorClassIdentifier: 
+  label: GelTank
+  title: Gel Electrophoresis
+  descriptionShort: Gel electrophoresis is a method for separation and analysis of
+    biomacromolecules (DNA, RNA, proteins, etc.) and their fragments, based on their
+    size and charge.
+  descriptionLong: Gel electrophoresis is a method for separation and analysis of
+    biomacromolecules (DNA, RNA, proteins, etc.) and their fragments, based on their
+    size and charge. It is used in clinical chemistry to separate proteins by charge
+    or size (IEF agarose, essentially size independent) and in biochemistry and molecular
+    biology to separate a mixed population of DNA and RNA fragments by length, to
+    estimate the size of DNA and RNA fragments or to separate proteins by charge.
+  texture: {fileID: 2800000, guid: 0dd6447abdf8c49478c3d570a9d72f29, type: 3}
+  sprite: {fileID: 21300000, guid: 0dd6447abdf8c49478c3d570a9d72f29, type: 3}
